@@ -2,7 +2,7 @@
 
 Pengalaman Belajar Git dengan Dicoding
 --
-21 Oktober 2021 : 
+21 Oktober 2020 : 
 - Membuat Akun Git
 - Mempelajari Dasar Git
 - Membuat Repository Baru
@@ -12,7 +12,7 @@ Pengalaman Belajar Git dengan Dicoding
 
 # Pengalaman Belajar Java dengan Dicoding
 
-22 Oktober 2021 : 
+22 Oktober 2020 : 
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
